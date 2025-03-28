@@ -1,4 +1,4 @@
-aiofiles>=22.0,<24.0
+aiofiles>=24.1,<25
 anyio>=3.0,<5.0
 audioop-lts<1.0; python_version >= "3.13" #it provides support for 'audioop' module removed in latest python version used by pydub
 fastapi>=0.115.2,<1.0
